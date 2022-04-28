@@ -63,13 +63,5 @@ public class RotationProject : MonoBehaviour
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/75235488/165780412-62c70c23-377d-43e7-b2ac-227ca2e6ca3f.png)
 
-https://user-images.githubusercontent.com/75235488/165783197-fedef9c1-edb5-4e71-91ed-8841bae63272.mp4
-
-
-
-
-
-
-
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed successfully.
