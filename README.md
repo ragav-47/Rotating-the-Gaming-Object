@@ -1,5 +1,5 @@
 ### EX NO : 01
-### DATE  : 31.01.2022
+### DATE  : 31.03.2022
 # <p align="center">Rotating the Gaming Object</p>
 
 ## Aim:
