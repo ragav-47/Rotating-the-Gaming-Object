@@ -59,10 +59,29 @@ public class RotationProject : MonoBehaviour
     }
 }
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 ![exp1](https://user-images.githubusercontent.com/75235150/167240121-4b7445e2-0df2-4a04-a262-e9dd04322daa.png)
-
-https://user-images.githubusercontent.com/75235150/167240142-6a3a60eb-0c51-43cf-afe3-7fa1602045c9.mp4
 
 
 ## Result:
