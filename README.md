@@ -1,4 +1,6 @@
-# Rotating the Gaming Object
+### EX NO : 01
+### DATE  : 31.01.2022
+# <p align="center">Rotating the Gaming Object</p>
 
 ## Aim:
 To develop a 3D application for rotating the gaming objects in unity.
